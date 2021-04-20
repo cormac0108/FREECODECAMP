@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Quads </title>
+</head>
+<body>
+  <svg viewBox="0 -100 600 400" preserveAspectRatio="none" ; style="position:fixed; top:0;">
+    <path id="roof" />
+  </svg>
+
+  <h1 contenteditable>Oh this is groovy</h1>
+
+  <svg viewBox="0 -100 600 400" style="position:fixed; bottom:0;" transform="scale(-1 -1)" preserveAspectRatio="none">
+    <path id="floor" />
+  </svg>
+</html>
